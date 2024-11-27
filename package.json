@@ -1,0 +1,12 @@
+{
+  "name": "pagedlist",
+  "version": "1.0.0",
+  "main": "lib/pagedList.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["pagination", "list"],
+  "author": "devacepta",
+  "license": "ISC",
+  "description": "A module to paginate lists"
+}
